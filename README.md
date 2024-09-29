@@ -1,5 +1,14 @@
 # LITA- CLASS D0CUMENTATION
 ## PROJECT TITLE
+
+[PROJECT OVERVIEW](#project-overview)
+
+Data Sources
+
+Tools Used
+
+Data Cleaning and Preparation
+
 ###PROJECT OVERVIEW
 ---
 This data analysis project aims to generate insight into the sales performance of the E commerce project over the past two years. By analysing the various parameters in the data received we seek to gather enough insight to make reasonable decisions which then enable us to tell compelling stories around our data from the insight gotten and to know the best performance from our data.
@@ -40,3 +49,14 @@ This is where we include some basic lines of code or qurriers or even some of th
 SELECT * FROM TABLE1
 WHERE CONDITION = TRUE
 ```
+
+#### Data Visuialation
+
+"laugh"
+
+" computer"
+
+|headind 1|heading 2|heading3|
+|---------|---------|--------|
+|Table 1|Table2|Table3|
+
